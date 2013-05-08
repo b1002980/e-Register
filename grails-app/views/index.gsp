@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-	<head>
+	<head  bgcolor="#00B200">
 		<meta name="layout" content="main"/>
 		<title>E-Register Application</title>
 	</head>
-	<body>
+	<body bgcolor="#E0E0E0">
 		<p>This is the E-Register Application</p><br>
 		<g:link controller="instructor">Instructor</g:link><br>
 		<g:link controller="course">Course</g:link><br>
