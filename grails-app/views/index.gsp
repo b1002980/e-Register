@@ -4,8 +4,10 @@
 		<meta name="layout" content="main"/>
 		<title>E-Register Application</title>
 	</head>
-	<body bgcolor="#E0E0E0">
-		<p>This is the E-Register Application</p><br>
+
+	<body>
+		<h1>E-Register Application</h1><br>
+		<p>Here you can Add, Edit or Delete students attendance to different classes and courses.</p><br>
 		<g:link controller="instructor">Instructor</g:link><br>
 		<g:link controller="course">Course</g:link><br>
 		<g:link controller="regClass">Class</g:link><br>
