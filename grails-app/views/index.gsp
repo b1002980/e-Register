@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<head  bgcolor="#00B200">
+	<head>
 		<meta name="layout" content="main"/>
 		<title>E-Register Application</title>
 	</head>
