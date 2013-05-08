@@ -4,7 +4,6 @@ class Instructor {
 
 	String name
 	String staffID
-	String classteach
 	Set instructorClass
 
 	static hasMany=[instructorClass:RegClass]
